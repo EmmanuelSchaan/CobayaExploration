@@ -11,3 +11,4 @@ input/
 output/
 figures/
 old/
+.ipynb_checkpoints/
