@@ -14,7 +14,7 @@ import sys
 
 
 
-# Generate infor dictionary
+# Generate info dictionary
 info = {
     "likelihood": {
         "gaussian_mixture": {
